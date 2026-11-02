@@ -13,4 +13,4 @@ Open the main HTML file in a browser, or use VS Code Live Server.
 Choosing grid-template-columns and named areas so content rearranges cleanly at smaller widths.
 
 ## Author
-Ansh Chauhan — B.Tech CSE, 1st Year
+Ansh Chauhan — B.Tech CSE, 1st Year(Invertis University)

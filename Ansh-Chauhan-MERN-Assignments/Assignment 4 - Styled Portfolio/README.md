@@ -16,4 +16,4 @@ Selecting a small colour palette and reusing CSS variables so the design stays c
 Manrope is used for strong, compact headings and DM Sans for comfortable body reading. Deep teal, mint and off-white create a calm campus/technology palette with clear contrast.
 
 ## Author
-Ansh Chauhan — B.Tech CSE, 1st Year
+Ansh Chauhan — B.Tech CSE, 1st Year(Invertis University)

@@ -13,4 +13,4 @@ Open the main HTML file in a browser, or use VS Code Live Server.
 Making every label point to its input and selecting suitable validation attributes.
 
 ## Author
-Ansh Chauhan — B.Tech CSE, 1st Year
+Ansh Chauhan — B.Tech CSE, 1st Year(Invertis University)

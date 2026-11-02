@@ -13,4 +13,4 @@ Open the main HTML file in a browser, or use VS Code Live Server.
 Understanding how justify-content and align-items control the main and cross axes, and how flex-wrap prevents overflow.
 
 ## Author
-Ansh Chauhan — B.Tech CSE, 1st Year
+Ansh Chauhan — B.Tech CSE, 1st Year(Invertis University)

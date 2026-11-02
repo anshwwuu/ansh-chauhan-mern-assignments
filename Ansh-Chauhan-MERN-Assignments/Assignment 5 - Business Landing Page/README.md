@@ -13,4 +13,4 @@ Open the main HTML file in a browser, or use VS Code Live Server.
 Layering the hero illustration and text with positioning and z-index while keeping the page readable on narrow screens.
 
 ## Author
-Ansh Chauhan — B.Tech CSE, 1st Year
+Ansh Chauhan — B.Tech CSE, 1st Year(Invertis University)

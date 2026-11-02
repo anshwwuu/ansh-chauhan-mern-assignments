@@ -23,4 +23,4 @@ Checking navigation wrapping, card width, font size and horizontal overflow at d
 Browser testing must be completed locally in DevTools before submission; this checklist is provided for that final verification.
 
 ## Author
-Ansh Chauhan — B.Tech CSE, 1st Year
+Ansh Chauhan — B.Tech CSE, 1st Year(Invertis University)

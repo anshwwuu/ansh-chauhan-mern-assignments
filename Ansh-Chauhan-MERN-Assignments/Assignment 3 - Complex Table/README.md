@@ -13,4 +13,4 @@ Open the main HTML file in a browser, or use VS Code Live Server.
 Keeping the table readable on small screens while preserving its 10-column structure; the wrapper allows horizontal scrolling.
 
 ## Author
-Ansh Chauhan — B.Tech CSE, 1st Year
+Ansh Chauhan — B.Tech CSE, 1st Year(Invertis University)

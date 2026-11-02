@@ -13,4 +13,4 @@ Open the main HTML file in a browser, or use VS Code Live Server.
 Choosing meaningful semantic sections and linking navigation to matching section IDs.
 
 ## Author
-Ansh Chauhan — B.Tech CSE, 1st Year
+Ansh Chauhan — B.Tech CSE, 1st Year(Invertis University)
